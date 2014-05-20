@@ -1,0 +1,10 @@
+PODS:
+  - objectiveflickr (2.0.4)
+
+DEPENDENCIES:
+  - objectiveflickr
+
+SPEC CHECKSUMS:
+  objectiveflickr: f29379f00357695f79047af11b882532b99310c5
+
+COCOAPODS: 0.32.1
